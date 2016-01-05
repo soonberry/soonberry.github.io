@@ -1,0 +1,30 @@
+{
+  "name": "baking_recipe",
+  "version": "1.0.0",
+  "description": "It's a baking recipe project for practice use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soonberry/baking-recipe.git"
+  },
+  "keywords": [
+    "baking",
+    "recipe"
+  ],
+  "author": "Shuwen Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soonberry/baking-recipe/issues"
+  },
+  "homepage": "https://github.com/soonberry/baking-recipe#readme",
+  "devDependencies": {
+    "babel": "^6.3.26",
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "react": "^0.14.5"
+  }
+}
